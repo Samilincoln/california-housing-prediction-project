@@ -1,0 +1,5 @@
+scikit-learn==1.7.1 # Machine learning library
+pandas # Data manipulation library
+numpy==2.3.2 # Numerical library for data analysis
+joblib # Serialization library for saving and loading models
+streamlit # Web application framework for building interactive data visualizations
